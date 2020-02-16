@@ -1,0 +1,14 @@
+django
+math
+pandas 
+string 
+re 
+json
+itertools
+nltk
+os
+requests
+json
+rest_framework
+unicodedata
+logger
