@@ -1,10 +1,7 @@
-gc
 numpy
 pandas
 dfply
 random
 sklearn
 seaborn
-warnings
-sys
 scipy
