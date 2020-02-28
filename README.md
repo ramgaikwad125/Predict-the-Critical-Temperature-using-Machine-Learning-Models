@@ -12,3 +12,6 @@ Steps to do this task:
 The code should contain sufficient explanations of each step that you have
 taken, and the underlying reasoning in order for it to be self-explanatory for
 assessment.
+
+To fetch this project:
+git clone https://github.com/ramgaikwad125/Predict-the-Critical-Temperature-using-Machine-Learning-Models.git
